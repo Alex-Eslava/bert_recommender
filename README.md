@@ -1,5 +1,5 @@
 # Recommender
-Just testing 
+Just testing. Only had to tweak a bit the lightning components to get it to run. So far only tested w/ 20 epochs and results are not terrible. 
 
 
 
